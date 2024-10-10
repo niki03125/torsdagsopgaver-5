@@ -18,6 +18,7 @@ public class Building {
     public void setRooms(ArrayList<Room> rooms){
         this.rooms = rooms;
     }
+    //
     public void setNumberOfFloors(int numberOfFloors){
         this.numberOfFloors = numberOfFloors;
     }
